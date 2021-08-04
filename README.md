@@ -25,13 +25,13 @@ rtracklayer 1.46.0,
 wesanderson 0.3.6
 
 # How to run this demo
-1) Download INPUT folder
+1) Download INPUT folder 1 to 4 and put all files into one folder 
 2) Start up R Studio by clicking an R script
 3) Make sure your working directory is in INPUT folder so that R recognises input files. 
 4) Read instructions in the scripts and execute the code (line by line).  
 5) Figures are generated as output in the same folder. 
 
-# Input files - SynGO_INPUT.zip
+# Input files - SynGO_INPUT(1 to 4).zip
 
 1) JGI fungal genomes including scaffold 1 to 10 
 

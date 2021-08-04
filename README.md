@@ -45,10 +45,6 @@ SynGO_Scaff1to10_GenomeFeature.csv
 
 SynGO_synteny_locations
  
-# Output files (for busy people)
-
-SynGO_OUTPUT.zip
-
 # Description of output - Hanabi (fireworks) plots
 
 Hanabi plots show macrosynteny between two fungi with the genomic locations of genes, predicted secretome (e.g. secreted CAZymes, SSPs, lipases, proteases), and TEs in the largest 10 scaffolds. Some selected figures were used in Looney et al., (2021).
